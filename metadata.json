@@ -1,0 +1,5 @@
+{
+  "name": "From Hill To Station Café",
+  "description": "A modern, aesthetic, and mobile-responsive website for From Hill To Station Café, featuring a warm coffee-inspired design and easy-to-navigate sections.",
+  "requestFramePermissions": ["geolocation"]
+}
